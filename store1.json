@@ -1,0 +1,4141 @@
+[
+  {
+    "store_name": "Udta Punjab",
+    "store_type": "Budget Eats\n                                    Cost for two: \u20b9400",
+    "location": "Sector 11, Rohini, New Delhi.",
+    "rating": "4.9",
+    "menu": {
+      "Recommended": [
+        {
+          "name": "Plain Naan",
+          "price": "35"
+        },
+        {
+          "name": "Aloo Paratha",
+          "price": "55"
+        },
+        {
+          "name": "Paneer Paratha",
+          "price": "75"
+        },
+        {
+          "name": "Veg Noodles",
+          "price": "130"
+        },
+        {
+          "name": "Paneer Tikka",
+          "price": "150"
+        },
+        {
+          "name": "Veg Fried Rice",
+          "price": "170"
+        },
+        {
+          "name": "Egg Curry",
+          "price": "180"
+        },
+        {
+          "name": "Egg Noodles",
+          "price": "180"
+        },
+        {
+          "name": "Dal Makhani",
+          "price": "190"
+        },
+        {
+          "name": "Shahi Paneer",
+          "price": "240"
+        },
+        {
+          "name": "Chicken Fried Rice",
+          "price": "240"
+        },
+        {
+          "name": "Kadai Paneer",
+          "price": "250"
+        },
+        {
+          "name": "Butter Chicken",
+          "price": "270"
+        },
+        {
+          "name": "Chicken Changezi",
+          "price": "290"
+        },
+        {
+          "name": "Tandoori Chicken",
+          "price": "330"
+        }
+      ],
+      "Combos And Meals": [
+        {
+          "name": "Dal Makhani With 2 Roti",
+          "price": "170"
+        },
+        {
+          "name": "Dal Makhani With 1 Naan",
+          "price": "180"
+        },
+        {
+          "name": "Dal Makhani With 1 Paratha",
+          "price": "180"
+        },
+        {
+          "name": "Shahi Paneer With 2 Roti",
+          "price": "200"
+        },
+        {
+          "name": "Chicken Curry With 2 Roti",
+          "price": "220"
+        },
+        {
+          "name": "Butter Chicken [1 Piece] With 2 Rumali Roti",
+          "price": "220"
+        },
+        {
+          "name": "Keema Paratha With Gravy",
+          "price": "250"
+        },
+        {
+          "name": "Keema Naan With Gravy",
+          "price": "250"
+        }
+      ],
+      "Soups And Salad": [
+        {
+          "name": "Chicken Hot And Sour Soup",
+          "price": "170"
+        },
+        {
+          "name": "Chicken Manchow Soup",
+          "price": "170"
+        }
+      ],
+      "Starters": [
+        {
+          "name": "Paneer Tikka",
+          "price": "150"
+        },
+        {
+          "name": "Paneer Malai Tikka",
+          "price": "150"
+        },
+        {
+          "name": "Achari Paneer Tikka",
+          "price": "150"
+        },
+        {
+          "name": "Hariyali Paneer Tikka",
+          "price": "150"
+        },
+        {
+          "name": "Mushroom Tikka",
+          "price": "150"
+        },
+        {
+          "name": "Tandoori Aloo",
+          "price": "150"
+        },
+        {
+          "name": "Achari Mushroom Tikka",
+          "price": "170"
+        },
+        {
+          "name": "Afghani Mushroom Tikka",
+          "price": "170"
+        },
+        {
+          "name": "Hariyali Mushroom Tikka",
+          "price": "170"
+        },
+        {
+          "name": "Dahi Kabab",
+          "price": "170"
+        },
+        {
+          "name": "Tandoori Veg Platter",
+          "price": "400"
+        }
+      ],
+      "Main Course": [
+        {
+          "name": "Egg Curry",
+          "price": "180"
+        },
+        {
+          "name": "Chicken Tikka Masala",
+          "price": "270"
+        },
+        {
+          "name": "Chicken Seekh Masala",
+          "price": "270"
+        },
+        {
+          "name": "Butter Chicken",
+          "price": "270"
+        },
+        {
+          "name": "Kadhai Chicken",
+          "price": "270"
+        },
+        {
+          "name": "Tawa Chicken",
+          "price": "270"
+        },
+        {
+          "name": "Chicken Curry",
+          "price": "270"
+        },
+        {
+          "name": "Chicken Masala",
+          "price": "270"
+        },
+        {
+          "name": "Chicken Handi",
+          "price": "270"
+        },
+        {
+          "name": "Chicken Rara",
+          "price": "270"
+        },
+        {
+          "name": "Special Chicken Keema",
+          "price": "270"
+        },
+        {
+          "name": "Chicken Do Pyaza",
+          "price": "270"
+        },
+        {
+          "name": "Chicken Kali Mirch",
+          "price": "270"
+        },
+        {
+          "name": "Chicken Adraki",
+          "price": "270"
+        },
+        {
+          "name": "Chicken Lababdar",
+          "price": "270"
+        },
+        {
+          "name": "Lemon Chicken",
+          "price": "270"
+        },
+        {
+          "name": "Chicken Changezi",
+          "price": "290"
+        },
+        {
+          "name": "Special Cream Chicken",
+          "price": "510"
+        }
+      ],
+      "Chaap": [
+        {
+          "name": "Special Afghani Chaap",
+          "price": "150"
+        },
+        {
+          "name": "Malai Chaap",
+          "price": "150"
+        },
+        {
+          "name": "Tandoori Chaap",
+          "price": "150"
+        },
+        {
+          "name": "Masala Chaap",
+          "price": "170"
+        },
+        {
+          "name": "Achari Chaap",
+          "price": "170"
+        },
+        {
+          "name": "Hariyali Chaap",
+          "price": "180"
+        },
+        {
+          "name": "Stuffed Tandoori Chaap",
+          "price": "180"
+        }
+      ],
+      "Breads": [
+        {
+          "name": "Tandoori Roti",
+          "price": "12"
+        },
+        {
+          "name": "Rumali Roti",
+          "price": "15"
+        },
+        {
+          "name": "Butter Roti",
+          "price": "15"
+        },
+        {
+          "name": "Plain Naan",
+          "price": "35"
+        },
+        {
+          "name": "Butter Naan",
+          "price": "45"
+        },
+        {
+          "name": "Lachha Paratha",
+          "price": "45"
+        },
+        {
+          "name": "Missi Roti",
+          "price": "45"
+        },
+        {
+          "name": "Chilli Paratha",
+          "price": "45"
+        },
+        {
+          "name": "Aloo Paratha",
+          "price": "55"
+        },
+        {
+          "name": "Aloo Naan",
+          "price": "55"
+        },
+        {
+          "name": "Garlic Naan",
+          "price": "59"
+        },
+        {
+          "name": "Stuffed Naan",
+          "price": "70"
+        },
+        {
+          "name": "Paneer Paratha",
+          "price": "75"
+        },
+        {
+          "name": "Paneer Naan",
+          "price": "80"
+        }
+      ],
+      "Rice And Biryani": [
+        {
+          "name": "Plain Rice",
+          "price": "110"
+        },
+        {
+          "name": "Jeera Rice",
+          "price": "130"
+        }
+      ],
+      "Chinese": [
+        {
+          "name": "Chilli Chicken Dry",
+          "price": "270"
+        },
+        {
+          "name": "Chilli Chicken Gravy",
+          "price": "270"
+        },
+        {
+          "name": "Chicken Manchurian Dry",
+          "price": "270"
+        },
+        {
+          "name": "Chicken Manchurian Gravy",
+          "price": "270"
+        },
+        {
+          "name": "Golden Fried Chicken Fry",
+          "price": "290"
+        },
+        {
+          "name": "Cream Style Lemon Chicken",
+          "price": "310"
+        },
+        {
+          "name": "Chicken Platter",
+          "price": "310"
+        }
+      ],
+      "Fried Rice And Noodles": [
+        {
+          "name": "Veg Noodles",
+          "price": "130"
+        },
+        {
+          "name": "Hakka Noodles",
+          "price": "140"
+        },
+        {
+          "name": "Chilli Garlic Noodles",
+          "price": "150"
+        },
+        {
+          "name": "Singapuri Noodles",
+          "price": "150"
+        },
+        {
+          "name": "Panner Noodles",
+          "price": "160"
+        },
+        {
+          "name": "Veg Special Chowmein",
+          "price": "160"
+        },
+        {
+          "name": "Egg Noodles",
+          "price": "180"
+        },
+        {
+          "name": "Chicken Noodles",
+          "price": "200"
+        },
+        {
+          "name": "Chicken Hot Chicks Special Chowmein",
+          "price": "210"
+        }
+      ],
+      "Rolls": [
+        {
+          "name": "Masala Chaap Roll",
+          "price": "220"
+        },
+        {
+          "name": "Paneer Tikka Roll",
+          "price": "240"
+        },
+        {
+          "name": "Mushroom Tikka Roll",
+          "price": "240"
+        },
+        {
+          "name": "Malai Chaap Roll",
+          "price": "240"
+        },
+        {
+          "name": "Chicken Tikka Roll",
+          "price": "280"
+        },
+        {
+          "name": "Chicken Seekh Roll",
+          "price": "280"
+        },
+        {
+          "name": "Mutton Seekh Roll",
+          "price": "280"
+        }
+      ],
+      "Momos": [
+        {
+          "name": "Steamed Momos [8 Pieces]",
+          "price": "140"
+        },
+        {
+          "name": "Chicken Tandoori Momos [8 Pieces]",
+          "price": "200"
+        },
+        {
+          "name": "Chicken Afghani Momos [8 Pieces]",
+          "price": "220"
+        },
+        {
+          "name": "Chicken Achari Momos [8 Pieces]",
+          "price": "220"
+        }
+      ],
+      "Chakhna": [
+        {
+          "name": "Mixed Chakhna",
+          "price": "120"
+        },
+        {
+          "name": "Kurkure",
+          "price": "120"
+        },
+        {
+          "name": "Peanut Chaat",
+          "price": "120"
+        },
+        {
+          "name": "Chana Jor Garam",
+          "price": "140"
+        },
+        {
+          "name": "Aloo Chaat",
+          "price": "150"
+        },
+        {
+          "name": "Potato Fry",
+          "price": "150"
+        },
+        {
+          "name": "Chana",
+          "price": "150"
+        },
+        {
+          "name": "Corn Chaat",
+          "price": "170"
+        },
+        {
+          "name": "Fried Badam",
+          "price": "200"
+        },
+        {
+          "name": "Roasted Pineapple",
+          "price": "220"
+        },
+        {
+          "name": "Egg Roll",
+          "price": "220"
+        },
+        {
+          "name": "Fried Kaju",
+          "price": "240"
+        },
+        {
+          "name": "Double Egg Roll",
+          "price": "270"
+        }
+      ],
+      "Snacks": [
+        {
+          "name": "French Fries",
+          "price": "150"
+        },
+        {
+          "name": "Veg Cutlet",
+          "price": "170"
+        },
+        {
+          "name": "Veg Spring Roll",
+          "price": "180"
+        },
+        {
+          "name": "Omelette [4 Eggs]",
+          "price": "180"
+        },
+        {
+          "name": "Butter Omelette [4 Eggs]",
+          "price": "220"
+        },
+        {
+          "name": "Chicken Cutlet",
+          "price": "240"
+        }
+      ],
+      "Accompaniments": [
+        {
+          "name": "Boondi Raita",
+          "price": "100"
+        },
+        {
+          "name": "Plain Curd",
+          "price": "55"
+        },
+        {
+          "name": "Cream Salad",
+          "price": "200"
+        }
+      ]
+    }
+  },
+  {
+    "store_name": "Momo Junction",
+    "store_type": "Delivery Only\n                                    Cost for two: \u20b9500",
+    "location": "Uttam Nagar, New Delhi.",
+    "rating": "3.7",
+    "menu": {
+      "Recommended": [
+        {
+          "name": "N/A",
+          "price": "128.5714"
+        },
+        {
+          "name": "N/A",
+          "price": "152.381"
+        },
+        {
+          "name": "N/A",
+          "price": "180"
+        },
+        {
+          "name": "N/A",
+          "price": "209.5238"
+        },
+        {
+          "name": "N/A",
+          "price": "214.2857"
+        },
+        {
+          "name": "N/A",
+          "price": "214.2857"
+        },
+        {
+          "name": "N/A",
+          "price": "214.2857"
+        },
+        {
+          "name": "N/A",
+          "price": "219.0476"
+        },
+        {
+          "name": "N/A",
+          "price": "219.0476"
+        },
+        {
+          "name": "N/A",
+          "price": "223.8095"
+        },
+        {
+          "name": "N/A",
+          "price": "223.8095"
+        },
+        {
+          "name": "N/A",
+          "price": "223.8095"
+        },
+        {
+          "name": "N/A",
+          "price": "223.8095"
+        },
+        {
+          "name": "N/A",
+          "price": "228.5714"
+        },
+        {
+          "name": "N/A",
+          "price": "228.5714"
+        },
+        {
+          "name": "N/A",
+          "price": "228.5714"
+        },
+        {
+          "name": "N/A",
+          "price": "236.1905"
+        },
+        {
+          "name": "N/A",
+          "price": "237.1429"
+        },
+        {
+          "name": "N/A",
+          "price": "238.0952"
+        },
+        {
+          "name": "N/A",
+          "price": "240"
+        },
+        {
+          "name": "N/A",
+          "price": "242.8571"
+        },
+        {
+          "name": "N/A",
+          "price": "247.619"
+        },
+        {
+          "name": "N/A",
+          "price": "247.619"
+        },
+        {
+          "name": "N/A",
+          "price": "247.619"
+        },
+        {
+          "name": "N/A",
+          "price": "252.381"
+        }
+      ],
+      "Thali": [
+        {
+          "name": "N/A",
+          "price": "170.4762"
+        },
+        {
+          "name": "N/A",
+          "price": "237.1429"
+        },
+        {
+          "name": "N/A",
+          "price": "180"
+        },
+        {
+          "name": "N/A",
+          "price": "304.7619"
+        }
+      ],
+      "Veg Combo": [
+        {
+          "name": "N/A",
+          "price": "228.5714"
+        },
+        {
+          "name": "N/A",
+          "price": "214.2857"
+        },
+        {
+          "name": "N/A",
+          "price": "223.8095"
+        },
+        {
+          "name": "N/A",
+          "price": "219.0476"
+        },
+        {
+          "name": "N/A",
+          "price": "219.0476"
+        },
+        {
+          "name": "N/A",
+          "price": "209.5238"
+        },
+        {
+          "name": "N/A",
+          "price": "228.5714"
+        },
+        {
+          "name": "N/A",
+          "price": "223.8095"
+        },
+        {
+          "name": "N/A",
+          "price": "223.8095"
+        },
+        {
+          "name": "N/A",
+          "price": "228.5714"
+        }
+      ],
+      "Tawa Roti & Prantha": [
+        {
+          "name": "N/A",
+          "price": "15.2381"
+        },
+        {
+          "name": "N/A",
+          "price": "20.9524"
+        },
+        {
+          "name": "N/A",
+          "price": "94.2857"
+        },
+        {
+          "name": "N/A",
+          "price": "100"
+        }
+      ],
+      "BEVERAGE": [
+        {
+          "name": "N/A",
+          "price": "152.381"
+        },
+        {
+          "name": "N/A",
+          "price": "84.7619"
+        },
+        {
+          "name": "N/A",
+          "price": "84.7619"
+        }
+      ],
+      "Paneer Gravy": [
+        {
+          "name": "N/A",
+          "price": "240"
+        },
+        {
+          "name": "N/A",
+          "price": "242.8571"
+        },
+        {
+          "name": "N/A",
+          "price": "238.0952"
+        },
+        {
+          "name": "N/A",
+          "price": "236.1905"
+        },
+        {
+          "name": "N/A",
+          "price": "247.619"
+        },
+        {
+          "name": "N/A",
+          "price": "252.381"
+        },
+        {
+          "name": "N/A",
+          "price": "223.8095"
+        },
+        {
+          "name": "N/A",
+          "price": "237.1429"
+        },
+        {
+          "name": "N/A",
+          "price": "252.381"
+        }
+      ],
+      "SOUP \ud83c\udf72": [
+        {
+          "name": "N/A",
+          "price": "85.7143"
+        },
+        {
+          "name": "N/A",
+          "price": "85.7143"
+        },
+        {
+          "name": "N/A",
+          "price": "85.7143"
+        },
+        {
+          "name": "N/A",
+          "price": "85.7143"
+        }
+      ],
+      "Egg": [
+        {
+          "name": "N/A",
+          "price": "122.8571"
+        },
+        {
+          "name": "N/A",
+          "price": "128.5714"
+        },
+        {
+          "name": "N/A",
+          "price": "123.8095"
+        }
+      ],
+      "Mutton & Chicken": [
+        {
+          "name": "N/A",
+          "price": "323.8095"
+        },
+        {
+          "name": "N/A",
+          "price": "247.619"
+        },
+        {
+          "name": "N/A",
+          "price": "371.4286"
+        },
+        {
+          "name": "N/A",
+          "price": "409.5238"
+        },
+        {
+          "name": "N/A",
+          "price": "328.5714"
+        },
+        {
+          "name": "N/A",
+          "price": "304.7619"
+        },
+        {
+          "name": "N/A",
+          "price": "323.8095"
+        },
+        {
+          "name": "N/A",
+          "price": "247.619"
+        },
+        {
+          "name": "N/A",
+          "price": "333.3333"
+        },
+        {
+          "name": "N/A",
+          "price": "328.5714"
+        },
+        {
+          "name": "N/A",
+          "price": "404.7619"
+        },
+        {
+          "name": "N/A",
+          "price": "361.9048"
+        },
+        {
+          "name": "N/A",
+          "price": "266.6667"
+        },
+        {
+          "name": "N/A",
+          "price": "400"
+        },
+        {
+          "name": "N/A",
+          "price": "280.9524"
+        },
+        {
+          "name": "N/A",
+          "price": "323.8095"
+        },
+        {
+          "name": "N/A",
+          "price": "--"
+        },
+        {
+          "name": "N/A",
+          "price": "342.8571"
+        },
+        {
+          "name": "N/A",
+          "price": "357.1429"
+        },
+        {
+          "name": "N/A",
+          "price": "238.0952"
+        }
+      ],
+      "Chicken Combo": [
+        {
+          "name": "N/A",
+          "price": "276.1905"
+        },
+        {
+          "name": "N/A",
+          "price": "280.9524"
+        },
+        {
+          "name": "N/A",
+          "price": "271.4286"
+        },
+        {
+          "name": "N/A",
+          "price": "280.9524"
+        },
+        {
+          "name": "N/A",
+          "price": "214.2857"
+        },
+        {
+          "name": "N/A",
+          "price": "276.1905"
+        },
+        {
+          "name": "N/A",
+          "price": "280.9524"
+        },
+        {
+          "name": "N/A",
+          "price": "214.2857"
+        },
+        {
+          "name": "N/A",
+          "price": "280.9524"
+        },
+        {
+          "name": "N/A",
+          "price": "284.7619"
+        },
+        {
+          "name": "N/A",
+          "price": "271.4286"
+        },
+        {
+          "name": "N/A",
+          "price": "290.4762"
+        },
+        {
+          "name": "N/A",
+          "price": "300"
+        },
+        {
+          "name": "N/A",
+          "price": "300"
+        },
+        {
+          "name": "N/A",
+          "price": "300"
+        },
+        {
+          "name": "N/A",
+          "price": "300"
+        },
+        {
+          "name": "N/A",
+          "price": "300"
+        },
+        {
+          "name": "N/A",
+          "price": "276.1905"
+        },
+        {
+          "name": "N/A",
+          "price": "276.1905"
+        }
+      ],
+      "Rumali Chaap": [
+        {
+          "name": "N/A",
+          "price": "160.9524"
+        },
+        {
+          "name": "N/A",
+          "price": "160.9524"
+        },
+        {
+          "name": "N/A",
+          "price": "160.9524"
+        }
+      ],
+      "Maggi": [
+        {
+          "name": "N/A",
+          "price": "104.7619"
+        },
+        {
+          "name": "N/A",
+          "price": "141.9048"
+        },
+        {
+          "name": "N/A",
+          "price": "122.8571"
+        },
+        {
+          "name": "N/A",
+          "price": "122.8571"
+        }
+      ],
+      "Dal&Chawal": [
+        {
+          "name": "N/A",
+          "price": "233.3333"
+        },
+        {
+          "name": "N/A",
+          "price": "242.8571"
+        },
+        {
+          "name": "N/A",
+          "price": "266.6667"
+        },
+        {
+          "name": "N/A",
+          "price": "276.1905"
+        }
+      ],
+      "Punjabi Lassi": [
+        {
+          "name": "N/A",
+          "price": "141.9048"
+        },
+        {
+          "name": "N/A",
+          "price": "160.9524"
+        },
+        {
+          "name": "N/A",
+          "price": "180"
+        }
+      ]
+    }
+  },
+  {
+    "store_name": "Pizza Buddy By Soda Junction",
+    "store_type": "Budget Eats\n                                    Cost for two: \u20b9400",
+    "location": "Naraina, New Delhi.",
+    "rating": "3.4",
+    "menu": {
+      "Recommended": [
+        {
+          "name": "Veg Grilled Sandwich",
+          "price": "59"
+        },
+        {
+          "name": "Tandoori Veg Grilled Sandwich",
+          "price": "69"
+        },
+        {
+          "name": "Onion Cheese",
+          "price": "140"
+        },
+        {
+          "name": "Onion And Corn Cheese",
+          "price": "80"
+        },
+        {
+          "name": "Alloo Tikki",
+          "price": "60"
+        },
+        {
+          "name": "Onion And Capsicum Cheese",
+          "price": "80"
+        },
+        {
+          "name": "Mozzarella Paneer And Onion",
+          "price": "80"
+        },
+        {
+          "name": "Masala Fries",
+          "price": "89"
+        },
+        {
+          "name": "Paneer And Onion Cheese",
+          "price": "90"
+        },
+        {
+          "name": "Corn And Paneer",
+          "price": "90"
+        },
+        {
+          "name": "Corn Mozzarella",
+          "price": "90"
+        },
+        {
+          "name": "Double Tikki Burger",
+          "price": "90"
+        },
+        {
+          "name": "Paneer Mozzarella",
+          "price": "100"
+        },
+        {
+          "name": "Vanilla Shake",
+          "price": "109"
+        },
+        {
+          "name": "Cheese Fries",
+          "price": "120"
+        }
+      ],
+      "Thick Milk Shakes": [
+        {
+          "name": "Chocolate Shake",
+          "price": "90"
+        },
+        {
+          "name": "Vanilla Shake",
+          "price": "109"
+        }
+      ],
+      "Mojito": [
+        {
+          "name": "Lime Mojito",
+          "price": "85"
+        },
+        {
+          "name": "Orange Mojito",
+          "price": "85"
+        },
+        {
+          "name": "Blueberry Mojito",
+          "price": "85"
+        },
+        {
+          "name": "Strawberry Mojito",
+          "price": "85"
+        }
+      ],
+      "Pizza": [
+        {
+          "name": "Plain Mozzarella",
+          "price": "90"
+        },
+        {
+          "name": "Onion Cheese",
+          "price": "140"
+        },
+        {
+          "name": "Onion And Corn Cheese",
+          "price": "80"
+        },
+        {
+          "name": "Paneer And Onion Cheese",
+          "price": "90"
+        },
+        {
+          "name": "Corn And Paneer",
+          "price": "90"
+        },
+        {
+          "name": "Onion And Capsicum Cheese",
+          "price": "80"
+        },
+        {
+          "name": "Paneer And Olive Cheese",
+          "price": "110"
+        },
+        {
+          "name": "Special Cheese Pizza",
+          "price": "150"
+        },
+        {
+          "name": "Corn Mozzarella",
+          "price": "90"
+        },
+        {
+          "name": "Capsicum Mozzarella",
+          "price": "90"
+        },
+        {
+          "name": "Paneer Mozzarella",
+          "price": "100"
+        },
+        {
+          "name": "Mix Mozzarella",
+          "price": "120"
+        },
+        {
+          "name": "Mozzarella Black Olive",
+          "price": "110"
+        },
+        {
+          "name": "Mozzarella Paneer And Onion",
+          "price": "80"
+        }
+      ],
+      "Drinks (Beverages)": [
+        {
+          "name": "Water Bottle",
+          "price": "29"
+        },
+        {
+          "name": "Lassi",
+          "price": "25"
+        }
+      ],
+      "Sandwiches": [
+        {
+          "name": "Paneer Grilled Sandwich",
+          "price": "79"
+        },
+        {
+          "name": "Veg Grilled Sandwich",
+          "price": "59"
+        },
+        {
+          "name": "Tandoori Paneer Sandwich",
+          "price": "89"
+        },
+        {
+          "name": "Tandoori Veg Grilled Sandwich",
+          "price": "69"
+        },
+        {
+          "name": "Cheeese Grilled",
+          "price": "160"
+        }
+      ],
+      "Burger And French Fries": [
+        {
+          "name": "Alloo Tikki",
+          "price": "60"
+        },
+        {
+          "name": "Aalloo Paneer Burger",
+          "price": "80"
+        },
+        {
+          "name": "Double Tikki Burger",
+          "price": "90"
+        }
+      ]
+    }
+  },
+  {
+    "store_name": "Janakpuri Veg Non Veg Junction",
+    "store_type": "Delivery Only\n                                    Cost for two: \u20b9200",
+    "location": "Dwarka Mor, Najafgarh, New Delhi.",
+    "rating": "4.1",
+    "menu": {
+      "Recommended": [
+        {
+          "name": "Mini Thali",
+          "price": "224"
+        },
+        {
+          "name": "Normal Thali",
+          "price": "233"
+        },
+        {
+          "name": "Daal Makhni Special + 4 Butter Roti",
+          "price": "243"
+        },
+        {
+          "name": "Shahi Paneer + 4 Butter Roti",
+          "price": "243"
+        },
+        {
+          "name": "Shahi Thali",
+          "price": "300"
+        },
+        {
+          "name": "Chicken Seekh Kabab Rumali 4pcs",
+          "price": "305"
+        },
+        {
+          "name": "Tawa Chicken + 4 Butter Roti",
+          "price": "338"
+        },
+        {
+          "name": "Chicken Changezi+ 4 Butter Roti",
+          "price": "341"
+        },
+        {
+          "name": "Dahi Chicken+ 4 Butter Roti",
+          "price": "350"
+        },
+        {
+          "name": "Deluxe Thali",
+          "price": "352"
+        }
+      ],
+      "Thali Special": [
+        {
+          "name": "Deluxe Thali",
+          "price": "352"
+        },
+        {
+          "name": "Shahi Thali",
+          "price": "300"
+        },
+        {
+          "name": "Mini Thali",
+          "price": "224"
+        },
+        {
+          "name": "Normal Thali",
+          "price": "233"
+        }
+      ],
+      "Veg Combo": [
+        {
+          "name": "Daal Makhni Special + 4 Butter Roti",
+          "price": "243"
+        },
+        {
+          "name": "Shahi Paneer + 4 Butter Roti",
+          "price": "243"
+        },
+        {
+          "name": "Tawa Chaap + 4 Butter Roti",
+          "price": "243"
+        },
+        {
+          "name": "Khadai Chaal + 4 Butter Roti",
+          "price": "243"
+        },
+        {
+          "name": "Matar Paneer + 4 Butter Roti",
+          "price": "243"
+        },
+        {
+          "name": "Chaap Butter Masala + 4 Butter Roti",
+          "price": "243"
+        },
+        {
+          "name": "Special Paneer Lababdar + 4 Butter Roti",
+          "price": "243"
+        },
+        {
+          "name": "Tawa Soya Bean + 4 Butter Roti",
+          "price": "233"
+        },
+        {
+          "name": "Chana Masala + 4 Butter Roti",
+          "price": "243"
+        },
+        {
+          "name": "Paneer Butter Masala + 4 Butter Roti",
+          "price": "248"
+        }
+      ],
+      "Roti & Prantha": [
+        {
+          "name": "Tawa Roti",
+          "price": "18"
+        },
+        {
+          "name": "Tawa Butter Roti",
+          "price": "27"
+        }
+      ],
+      "Mutton & Chicken": [
+        {
+          "name": "Butter Chicken Special",
+          "price": "448"
+        },
+        {
+          "name": "Butter Chicken Boneless",
+          "price": "466"
+        },
+        {
+          "name": "Butter Masala Chicken Seekh Kabab",
+          "price": "371"
+        },
+        {
+          "name": "Butter Masala Mutton Seekh Kabab",
+          "price": "370"
+        },
+        {
+          "name": "Mutton Seekh Kabab (Dry)",
+          "price": "295"
+        },
+        {
+          "name": "Tawa Chicken Kabab Gravy",
+          "price": "362"
+        },
+        {
+          "name": "Chicken Seekh Kabab Creamy",
+          "price": "329"
+        },
+        {
+          "name": "Mutton Seekh Kabab Creamy",
+          "price": "338"
+        },
+        {
+          "name": "Chicken Seekh Kabab (Dry )",
+          "price": "281"
+        },
+        {
+          "name": "Tawa Mutton Kabab Gravy",
+          "price": "362"
+        },
+        {
+          "name": "Kadai Chicken",
+          "price": "419"
+        },
+        {
+          "name": "Changezi Chicken SPL",
+          "price": "376"
+        },
+        {
+          "name": "Tawa Chicken SPL",
+          "price": "410"
+        },
+        {
+          "name": "Chicken Fry \ud83d\udc14",
+          "price": "329"
+        },
+        {
+          "name": "Chicken Fry In Creamy&Butter",
+          "price": "369"
+        },
+        {
+          "name": "Dahi Chicken",
+          "price": "367"
+        },
+        {
+          "name": "Lemon Chicken",
+          "price": "371"
+        },
+        {
+          "name": "Kali Mirch Chicken",
+          "price": "395"
+        },
+        {
+          "name": "Tawa Chicken Kabab Gravy",
+          "price": "352"
+        }
+      ],
+      "Chicken Combo": [
+        {
+          "name": "Butter Chicken + 4 Butter Roti",
+          "price": "333"
+        },
+        {
+          "name": "Tawa Chicken + 4 Butter Roti",
+          "price": "338"
+        },
+        {
+          "name": "Kadhai Chicken + 4 Butter Roti",
+          "price": "340"
+        },
+        {
+          "name": "Chicken Changezi+ 4 Butter Roti",
+          "price": "341"
+        },
+        {
+          "name": "Egg Curry 2pcs + 4 Butter Roti",
+          "price": "262"
+        },
+        {
+          "name": "Butter Masala Mutton Kabab+4 Butter Roti",
+          "price": "357"
+        },
+        {
+          "name": "Lemon Chicken+ 4 Butter Roti",
+          "price": "348"
+        },
+        {
+          "name": "Kali Mirch Chicken + 4 Butter Roti",
+          "price": "348"
+        },
+        {
+          "name": "Dahi Chicken+ 4 Butter Roti",
+          "price": "350"
+        },
+        {
+          "name": "Tawa Mutton Kabab+ 4 Tawa Roti",
+          "price": "338"
+        },
+        {
+          "name": "Butter Chicken Boneless + 4 Tawa Roti",
+          "price": "348"
+        },
+        {
+          "name": "Butter Masala Chicken Kabab + 4 Tawa Rot",
+          "price": "351"
+        },
+        {
+          "name": "Butter Masala Mutton Kabab+4 Tawa Roti",
+          "price": "354"
+        },
+        {
+          "name": "Butter Masala Kadai Chicken +4 Tawa Roti",
+          "price": "354"
+        },
+        {
+          "name": "Chicken Seekh Kabab + 4 Tawa Roti",
+          "price": "348"
+        }
+      ],
+      "Rumali Chaap": [
+        {
+          "name": "Malai Chaap Gravy With 3 Rumali Roti",
+          "price": "247"
+        },
+        {
+          "name": "Afgani Chaap Gravy With 3 Rumali Roti",
+          "price": "255"
+        },
+        {
+          "name": "Tandoori Chaap Gravy With 3 Rumali Roti",
+          "price": "247"
+        }
+      ],
+      "Maggi .": [
+        {
+          "name": "Plain Maggi",
+          "price": "136"
+        },
+        {
+          "name": "Double Masala Maggi",
+          "price": "148"
+        },
+        {
+          "name": "Panner Masala Maggi",
+          "price": "180"
+        },
+        {
+          "name": "Butter Maggi",
+          "price": "151"
+        }
+      ],
+      "Dal&Rice": [
+        {
+          "name": "Dal Makhni",
+          "price": "271"
+        },
+        {
+          "name": "Dal Makhni With Rice",
+          "price": "271"
+        },
+        {
+          "name": "Chana Masala",
+          "price": "305"
+        }
+      ],
+      "Lassi .": [
+        {
+          "name": "Shahi Punjabi Lassi",
+          "price": "176"
+        },
+        {
+          "name": "Full Loaded Lassi",
+          "price": "170"
+        },
+        {
+          "name": "Dry Fruit Lassi",
+          "price": "211"
+        },
+        {
+          "name": "Oreo Shake",
+          "price": "170"
+        }
+      ],
+      "Soup \ud83c\udf5c": [
+        {
+          "name": "Tamato Soup",
+          "price": "113"
+        },
+        {
+          "name": "Manchow Soup",
+          "price": "113"
+        },
+        {
+          "name": "Sweet Corn Soup",
+          "price": "113"
+        },
+        {
+          "name": "Mix Veg Soup",
+          "price": "113"
+        }
+      ],
+      "Egg": [
+        {
+          "name": "Egg Bhurji Delight",
+          "price": "151"
+        },
+        {
+          "name": "Butter Egg Bhurji",
+          "price": "161"
+        },
+        {
+          "name": "Butter Bread Omelette",
+          "price": "165"
+        }
+      ],
+      "Beverages (Drink)": [
+        {
+          "name": "Masala Jeera Soda",
+          "price": "113"
+        },
+        {
+          "name": "Masala Lemon Pani",
+          "price": "113"
+        }
+      ],
+      "Paneer Gravy": [
+        {
+          "name": "Shahi Paneer",
+          "price": "276"
+        },
+        {
+          "name": "Kadai Paneer Spl",
+          "price": "275"
+        },
+        {
+          "name": "Paneer Lababedar",
+          "price": "274"
+        },
+        {
+          "name": "Paneer Makhni",
+          "price": "278"
+        },
+        {
+          "name": "Kadai Paneer Butter Masala",
+          "price": "294"
+        },
+        {
+          "name": "Paneer Lababedar Butter Masala",
+          "price": "302"
+        },
+        {
+          "name": "Matar Paneer",
+          "price": "278"
+        },
+        {
+          "name": "Palak Paneer Butter Masala",
+          "price": "285"
+        }
+      ],
+      "Mutton &Chicken Kabab Rumali": [
+        {
+          "name": "Chicken Seekh Kabab Rumali 4pcs",
+          "price": "305"
+        },
+        {
+          "name": "Mutton Seekh Kabab Rumali 4pcs",
+          "price": "314"
+        }
+      ],
+      "Rolls": [
+        {
+          "name": "Veg Spring Roll Crispy 2pcs",
+          "price": "152"
+        },
+        {
+          "name": "Veg Creamy Spring Roll",
+          "price": "177"
+        },
+        {
+          "name": "Veg Afgani Creamy Spring Roll",
+          "price": "181"
+        }
+      ]
+    }
+  },
+  {
+    "store_name": "Hungry Bitess",
+    "store_type": "Delivery and Takeaway\n                                    Cost for two: \u20b9500",
+    "location": "Sector 7, Dwarka, Palam Extn, New Delhi.",
+    "rating": "4.4",
+    "menu": {
+      "Recommended": [
+        {
+          "name": "Aloo Tikki Burger",
+          "price": "145"
+        },
+        {
+          "name": "Crispy Veg Burger",
+          "price": "170"
+        },
+        {
+          "name": "Veggie Burger",
+          "price": "194"
+        },
+        {
+          "name": "Veg Momos",
+          "price": "209"
+        },
+        {
+          "name": "Veg Chilli Garlic Noodles",
+          "price": "209"
+        },
+        {
+          "name": "Veg Singapore Noodles",
+          "price": "209"
+        },
+        {
+          "name": "Veg Fried Rice",
+          "price": "209"
+        },
+        {
+          "name": "Veg Schezwan Fried Rice",
+          "price": "209"
+        },
+        {
+          "name": "Veg Manchurian Gravy",
+          "price": "300"
+        },
+        {
+          "name": "Chicken Wheat Momos",
+          "price": "301"
+        },
+        {
+          "name": "Crispy Honey Chilli Potatoes",
+          "price": "314"
+        },
+        {
+          "name": "Crispy Corn",
+          "price": "314"
+        },
+        {
+          "name": "Honey Chilly Potato + Coke [ 250 Ml ]",
+          "price": "353"
+        },
+        {
+          "name": "Veg White Sauce Pasta",
+          "price": "366"
+        },
+        {
+          "name": "Veg Manchurian Gravy Meal",
+          "price": "432"
+        }
+      ],
+      "Meal For One": [
+        {
+          "name": "Veg Manchurian Gravy Meal",
+          "price": "432"
+        },
+        {
+          "name": "Chicken Manchurian Meal",
+          "price": "458"
+        },
+        {
+          "name": "Chilly Mushroom Gravy Meal",
+          "price": "432"
+        },
+        {
+          "name": "Chilly Chicken [ Gravy ] Meal",
+          "price": "458"
+        }
+      ],
+      "Chinese Combos": [
+        {
+          "name": "Drumsticks [ 5pcs] + Coke [ 250 Ml ]",
+          "price": "445"
+        }
+      ],
+      "Appetizers": [
+        {
+          "name": "Crispy Chilli Baby Corn",
+          "price": "327"
+        },
+        {
+          "name": "Chilli Potato",
+          "price": "314"
+        },
+        {
+          "name": "Crispy Honey Chilli Potatoes",
+          "price": "314"
+        },
+        {
+          "name": "Veg Salt & Pepper",
+          "price": "314"
+        },
+        {
+          "name": "Mushroom Salt And Pepper",
+          "price": "327"
+        },
+        {
+          "name": "Crispy Corn",
+          "price": "314"
+        },
+        {
+          "name": "Veg Spring Roll (8 Pcs)",
+          "price": "314"
+        },
+        {
+          "name": "Chowmein Spring Roll [8Pcs]",
+          "price": "300"
+        },
+        {
+          "name": "Veg Manchurian Dry",
+          "price": "300"
+        },
+        {
+          "name": "Chilli Mushroom Dry",
+          "price": "300"
+        },
+        {
+          "name": "Southwest Cheese Spring Roll (8 Pcs)",
+          "price": "379"
+        },
+        {
+          "name": "Crispy Honey Chilli Baby Corn",
+          "price": "327"
+        },
+        {
+          "name": "Kurkure Southwest Cheese Spring Roll (8 Pcs)",
+          "price": "406"
+        },
+        {
+          "name": "Kurkure Veg Spring Roll (8 Pcs)",
+          "price": "340"
+        },
+        {
+          "name": "Kurkure Chowmein Spring Roll [8Pcs]",
+          "price": "314"
+        }
+      ],
+      "KurKure Momos": [
+        {
+          "name": "Veg Kurkure Momos",
+          "price": "219"
+        },
+        {
+          "name": "Veg Kurkure Wheat Momos",
+          "price": "229"
+        },
+        {
+          "name": "Chicken Kurkure Momos",
+          "price": "269"
+        },
+        {
+          "name": "Chicken Kurkure Wheat Momos",
+          "price": "279"
+        }
+      ],
+      "Jumbo Momos": [
+        {
+          "name": "Red Sauce Momos",
+          "price": "320"
+        },
+        {
+          "name": "Makhani Momos",
+          "price": "320"
+        },
+        {
+          "name": "Manchurian Momos",
+          "price": "320"
+        },
+        {
+          "name": "Schezwan Sauce Momos",
+          "price": "320"
+        },
+        {
+          "name": "Hot Garlic Sauce Momos",
+          "price": "320"
+        },
+        {
+          "name": "Kadhai Momos",
+          "price": "320"
+        },
+        {
+          "name": "White Sauce Momos",
+          "price": "320"
+        },
+        {
+          "name": "Rogan Josh Momos",
+          "price": "320"
+        },
+        {
+          "name": "Special Sauce Momos",
+          "price": "320"
+        }
+      ],
+      "Main Course": [
+        {
+          "name": "Veg Manchurian Gravy",
+          "price": "300"
+        },
+        {
+          "name": "Vegetable In Hot Garlic Sauce",
+          "price": "366"
+        },
+        {
+          "name": "Vegetable In Schezwan Sauce",
+          "price": "366"
+        },
+        {
+          "name": "Vegetable In Black Bean Sauce",
+          "price": "366"
+        },
+        {
+          "name": "Veg Chopsuey",
+          "price": "300"
+        },
+        {
+          "name": "Veg Red Thai Curry",
+          "price": "389"
+        },
+        {
+          "name": "Veg Green Thai Curry",
+          "price": "366"
+        },
+        {
+          "name": "Chilli Mushroom Gravy",
+          "price": "314"
+        }
+      ],
+      "Noodles": [
+        {
+          "name": "Veg Noodles",
+          "price": "209"
+        },
+        {
+          "name": "Veg Hakka Noodles",
+          "price": "209"
+        },
+        {
+          "name": "Veg Butter Pepper Garlic Noodles",
+          "price": "209"
+        },
+        {
+          "name": "Veg Chilli Garlic Noodles",
+          "price": "209"
+        },
+        {
+          "name": "Veg Singapore Noodles",
+          "price": "209"
+        },
+        {
+          "name": "Veg Schezwan Noodles",
+          "price": "209"
+        }
+      ],
+      "Rice": [
+        {
+          "name": "Steamed Rice",
+          "price": "209"
+        },
+        {
+          "name": "Veg Fried Rice",
+          "price": "209"
+        },
+        {
+          "name": "Veg Schezwan Fried Rice",
+          "price": "209"
+        },
+        {
+          "name": "Veg Chilli Garlic Fried Rice",
+          "price": "209"
+        },
+        {
+          "name": "Veg Singapore Fried Rice",
+          "price": "209"
+        }
+      ],
+      "Burgers": [
+        {
+          "name": "Aloo Tikki Burger",
+          "price": "145"
+        },
+        {
+          "name": "Crispy Veg Burger",
+          "price": "170"
+        },
+        {
+          "name": "Veg Cheese Melt Burger",
+          "price": "260"
+        },
+        {
+          "name": "Veggie Burger",
+          "price": "194"
+        }
+      ],
+      "Italian": [
+        {
+          "name": "Classic Fries",
+          "price": "170"
+        },
+        {
+          "name": "Masala Fries",
+          "price": "183"
+        },
+        {
+          "name": "Peri - Peri Fries",
+          "price": "195"
+        },
+        {
+          "name": "Cheesy Chipotle Fries",
+          "price": "195"
+        },
+        {
+          "name": "Lemon Pepper Fries",
+          "price": "183"
+        },
+        {
+          "name": "Cheesy Lemon Pepper Fries",
+          "price": "196"
+        },
+        {
+          "name": "Cheesy Masala Fries",
+          "price": "195"
+        },
+        {
+          "name": "Plain Garlic Bread [2 Pcs ]",
+          "price": "170"
+        },
+        {
+          "name": "Cheese Garlic Bread [ 2Pcs ]",
+          "price": "183"
+        },
+        {
+          "name": "Cheese Garlic Bread (5 Round Pcs)",
+          "price": "287"
+        },
+        {
+          "name": "Supreme Garlic Bread (5 Round Pcs)",
+          "price": "314"
+        },
+        {
+          "name": "Cheesy Fries",
+          "price": "209"
+        },
+        {
+          "name": "Cheesy Peri - Peri Fries",
+          "price": "195"
+        },
+        {
+          "name": "Chipotle Fries",
+          "price": "195"
+        }
+      ],
+      "Soups": [
+        {
+          "name": "Veg Manchow Soup",
+          "price": "198"
+        },
+        {
+          "name": "Veg Hot And Sour Soup",
+          "price": "186"
+        },
+        {
+          "name": "Veg Sweet Corn Soup",
+          "price": "186"
+        },
+        {
+          "name": "Veg Clear Soup With Noodles",
+          "price": "172"
+        },
+        {
+          "name": "Veg Lemon Coriander Soup",
+          "price": "186"
+        },
+        {
+          "name": "Veg Talumein Soup",
+          "price": "198"
+        },
+        {
+          "name": "Veg Tom Yum Soup",
+          "price": "186"
+        },
+        {
+          "name": "Cream Of Tomato Soup",
+          "price": "186"
+        }
+      ],
+      "Beverages": [
+        {
+          "name": "Cold Coffee",
+          "price": "314"
+        },
+        {
+          "name": "Strawberry Shake",
+          "price": "314"
+        },
+        {
+          "name": "Chocolate Shake",
+          "price": "314"
+        },
+        {
+          "name": "Vanilla Shake",
+          "price": "314"
+        },
+        {
+          "name": "Pineapple Shake",
+          "price": "314"
+        }
+      ],
+      "Momo Burger": [
+        {
+          "name": "Veg Momo Burger",
+          "price": "300"
+        }
+      ],
+      "Grilled Sandwich": [
+        {
+          "name": "Veggie Cheese Sandwich",
+          "price": "300"
+        },
+        {
+          "name": "Cheese N Corn Sandwich",
+          "price": "314"
+        },
+        {
+          "name": "Tandoori Veggie Sandwich",
+          "price": "314"
+        },
+        {
+          "name": "Pizza Sandwich",
+          "price": "327"
+        }
+      ],
+      "Maggi": [
+        {
+          "name": "Plain Masala Maggi",
+          "price": "294"
+        },
+        {
+          "name": "Plain Vegetable Maggi",
+          "price": "320"
+        },
+        {
+          "name": "Butter Masala Maggi",
+          "price": "307"
+        },
+        {
+          "name": "Plain Double Masala Maggi",
+          "price": "307"
+        },
+        {
+          "name": "Butter Double Masala Maggi",
+          "price": "320"
+        },
+        {
+          "name": "Butter Vegetable Maggi",
+          "price": "320"
+        },
+        {
+          "name": "Plain Cheese Maggi",
+          "price": "334"
+        },
+        {
+          "name": "Vegetable Cheese Maggi",
+          "price": "361"
+        },
+        {
+          "name": "Plain Chilli Cheese Maggi",
+          "price": "334"
+        },
+        {
+          "name": "Vegetable Chilli Cheese Maggi",
+          "price": "361"
+        }
+      ],
+      "Momos Platter": [
+        {
+          "name": "ChickenSteam Momo2Pcs+ChickenTandoori Momo2Pcs+ChickenAchari Momo2Pcs",
+          "price": "419"
+        },
+        {
+          "name": "ChickenSteam Momo2Pcs+ChickenKurkure Momo2Pcs+ChickenTandoori Momo2Pcs",
+          "price": "419"
+        },
+        {
+          "name": "ChickenKurkure Momo2Pcs+ChickenTandoori Momo2Pcs+ChickenAchai Momo2Pcs",
+          "price": "419"
+        },
+        {
+          "name": "Veg Steam Momo 2pcs+Veg Kurkure Momo2pcs+Veg Tandoori Momo2pcs",
+          "price": "393"
+        },
+        {
+          "name": "ChickenFried Momo2Pcs+ChickenKurkure Momo2Pcs+ChickenAchari Momo2Pcs",
+          "price": "419"
+        },
+        {
+          "name": "Veg Kurkure Momo2Pcs+Veg Tandoori Momo2Pcs+Veg Achari Momos2Pcs",
+          "price": "392"
+        }
+      ]
+    }
+  },
+  {
+    "store_name": "Shriram snackshub",
+    "store_type": "Quick Bites\n                                    Cost for two: \u20b9450",
+    "location": "Dwarka, Sector 18, Dwarka, New Delhi.",
+    "rating": "3.5",
+    "menu": {
+      "Recommended": [
+        {
+          "name": "Schezwan Noodles",
+          "price": "49"
+        },
+        {
+          "name": "Aloo Paratha",
+          "price": "49"
+        },
+        {
+          "name": "Shub Veg Noodles",
+          "price": "69"
+        },
+        {
+          "name": "Vada Pav [Single]",
+          "price": "49"
+        }
+      ],
+      "Combos": [
+        {
+          "name": "Bhature With Chole",
+          "price": "99"
+        },
+        {
+          "name": "Bedmi Puri With Aloo Tamatar Sabji",
+          "price": "79"
+        },
+        {
+          "name": "Puri With Sabji",
+          "price": "69"
+        },
+        {
+          "name": "Khasta Kachori With Aloo Tamatar",
+          "price": "59"
+        },
+        {
+          "name": "Bread Pakoda With Aloo Tamatar Sabji",
+          "price": "39"
+        },
+        {
+          "name": "Paneer Bread Pakoda With Aloo Tamatar Sabji",
+          "price": "49"
+        },
+        {
+          "name": "Aloo Pyaaz Paratha Combo",
+          "price": "120"
+        },
+        {
+          "name": "Paneer Paratha Combo",
+          "price": "169"
+        },
+        {
+          "name": "Paneer Pyaaz Paratha Combo",
+          "price": "159"
+        }
+      ],
+      "Snack": [
+        {
+          "name": "Chowmein Samosa",
+          "price": "49"
+        },
+        {
+          "name": "Paneer Samosa",
+          "price": "89"
+        },
+        {
+          "name": "Paneer Pyaaz Samosa",
+          "price": "79"
+        },
+        {
+          "name": "Capsicum Paneer Samosa",
+          "price": "89"
+        }
+      ],
+      "Chinese": [
+        {
+          "name": "Veg Spring Rolls",
+          "price": "50"
+        },
+        {
+          "name": "Veg Paneer Spring Rolls",
+          "price": "79"
+        }
+      ],
+      "Parathas": [
+        {
+          "name": "Plain Paratha",
+          "price": "39"
+        },
+        {
+          "name": "Plain Paratha With Butter",
+          "price": "49"
+        }
+      ],
+      "Spacial Momo": [
+        {
+          "name": "Paneer Steam Momos",
+          "price": "59"
+        },
+        {
+          "name": "Paneer Fried Momos",
+          "price": "79"
+        },
+        {
+          "name": "Paneer Gravy Momos",
+          "price": "99"
+        },
+        {
+          "name": "Paneer Chilli Momos",
+          "price": "99"
+        }
+      ],
+      "Fries": [
+        {
+          "name": "French Fries",
+          "price": "39"
+        }
+      ],
+      "Main Course": [
+        {
+          "name": "Vada Pav [Single]",
+          "price": "49"
+        }
+      ]
+    }
+  },
+  {
+    "store_name": "RFC Pizza point",
+    "store_type": "Quick Bites\n                                    Cost for two: \u20b9300",
+    "location": "Rohini, Pitampura, New Delhi.",
+    "rating": "4.1",
+    "menu": {
+      "Pizza": [
+        {
+          "name": "Jalapeno Olive Double Topping Pizza",
+          "price": "120"
+        },
+        {
+          "name": "Corn Capsicum Double Topping Pizza",
+          "price": "120"
+        },
+        {
+          "name": "Onion And Capsicum Double Topping Pizza",
+          "price": "120"
+        },
+        {
+          "name": "Onion And Paneer Double Topping Pizza",
+          "price": "130"
+        },
+        {
+          "name": "Capsicum Paneer Double Topping Pizza",
+          "price": "130"
+        },
+        {
+          "name": "Corn Paneer Double Topping Pizza",
+          "price": "130"
+        }
+      ]
+    }
+  },
+  {
+    "store_name": "Phulka Box - Seedha Ghar Se",
+    "store_type": "Quick Bites\n                                    Cost for two: \u20b9450",
+    "location": "Sector 7, Dwarka, Palam Extn, New Delhi.",
+    "rating": "5.0",
+    "menu": {
+      "Recommended": [
+        {
+          "name": "Kadi Pakoda",
+          "price": "110"
+        }
+      ],
+      "Thali": [
+        {
+          "name": "Mixed Dal With Aloo Gobi And 4 Roti",
+          "price": "225"
+        },
+        {
+          "name": "Rajma With Aloo Gobi And 4 Roti",
+          "price": "225"
+        },
+        {
+          "name": "Mixed Dal With Rajma And 4 Roti",
+          "price": "225"
+        },
+        {
+          "name": "Mixed Dal With Baingan Ka Bharta And 4 Roti",
+          "price": "225"
+        },
+        {
+          "name": "Mixed Dal With White Chana And 4 Roti",
+          "price": "225"
+        }
+      ],
+      "Rice Combos": [
+        {
+          "name": "Mix Dal With Rice",
+          "price": "160"
+        },
+        {
+          "name": "Kadhi Pakoda With Rice",
+          "price": "160"
+        },
+        {
+          "name": "White Chana With Rice",
+          "price": "160"
+        },
+        {
+          "name": "Yellow Dal With Rice",
+          "price": "160"
+        }
+      ],
+      "Main Course": [
+        {
+          "name": "Aloo Gobi",
+          "price": "140"
+        },
+        {
+          "name": "Mix Dal",
+          "price": "90"
+        },
+        {
+          "name": "Baingan Ka Bhartha",
+          "price": "140"
+        },
+        {
+          "name": "Kadi Pakoda",
+          "price": "110"
+        },
+        {
+          "name": "Rajma",
+          "price": "110"
+        },
+        {
+          "name": "White Chana",
+          "price": "110"
+        },
+        {
+          "name": "Yellow Dal",
+          "price": "90"
+        }
+      ],
+      "Phulka & Paratha": [
+        {
+          "name": "Ghar Ka Phulka",
+          "price": "10"
+        },
+        {
+          "name": "Phulka With Desi Ghee",
+          "price": "15"
+        }
+      ],
+      "Rice": [
+        {
+          "name": "Boiled Basmati Rice",
+          "price": "80"
+        }
+      ],
+      "Raita And Salad": [
+        {
+          "name": "Boondi Raita",
+          "price": "100"
+        },
+        {
+          "name": "Garden Green Salad",
+          "price": "80"
+        }
+      ]
+    }
+  },
+  {
+    "store_name": "",
+    "store_type": "",
+    "location": "",
+    "rating": "",
+    "menu": {}
+  },
+  {
+    "store_name": "Munch Nation",
+    "store_type": "Casual Dining\n                                    Cost for two: \u20b9500",
+    "location": "Jail Road, Janakpuri, New Delhi.",
+    "rating": "3.7",
+    "menu": {
+      "Recommended": [
+        {
+          "name": "Aloo Burger",
+          "price": "80"
+        },
+        {
+          "name": "Maggi Masala [Serves 1]",
+          "price": "80"
+        },
+        {
+          "name": "Veg Burger",
+          "price": "100"
+        },
+        {
+          "name": "Virgin Mojito Fizz",
+          "price": "100"
+        },
+        {
+          "name": "Kiwi Crush Fizz",
+          "price": "100"
+        },
+        {
+          "name": "Kala Khatta Fizz",
+          "price": "100"
+        },
+        {
+          "name": "Paneer Shawarma",
+          "price": "109"
+        },
+        {
+          "name": "Veg Maggi Masala",
+          "price": "110"
+        },
+        {
+          "name": "Paneer Shawarma Burger",
+          "price": "119"
+        },
+        {
+          "name": "Kurkure Paneer Shawarma",
+          "price": "119"
+        },
+        {
+          "name": "Chicken Steamed Momos",
+          "price": "155"
+        },
+        {
+          "name": "Grilled Chicken Burger",
+          "price": "165"
+        },
+        {
+          "name": "Veg Masala Fries",
+          "price": "175"
+        },
+        {
+          "name": "Desi Noodles",
+          "price": "200"
+        },
+        {
+          "name": "American Chicken Hammer Burger",
+          "price": "225"
+        },
+        {
+          "name": "Chicken Lollipop",
+          "price": "250"
+        },
+        {
+          "name": "Chicken Tikka Club Sandwich",
+          "price": "325"
+        },
+        {
+          "name": "Brownie",
+          "price": "110"
+        }
+      ],
+      "Shawarma": [
+        {
+          "name": "Paneer Shawarma",
+          "price": "109"
+        },
+        {
+          "name": "Paneer Shawarma Burger",
+          "price": "119"
+        },
+        {
+          "name": "Kurkure Paneer Shawarma",
+          "price": "119"
+        },
+        {
+          "name": "Paneer Shawarma Pizza",
+          "price": "275"
+        },
+        {
+          "name": "Paneer Shawarma Sandwich",
+          "price": "210"
+        }
+      ],
+      "Diet Dishes": [
+        {
+          "name": "Diet Chicken Sandwich",
+          "price": "250"
+        },
+        {
+          "name": "Diet Veg Sandwich",
+          "price": "220"
+        }
+      ],
+      "Soups": [
+        {
+          "name": "Veg Sweet Corn Soup",
+          "price": "160"
+        },
+        {
+          "name": "Veg Hot And Sour Soup",
+          "price": "160"
+        },
+        {
+          "name": "Veg Manchow Soup",
+          "price": "160"
+        },
+        {
+          "name": "Veg Talumein Soup",
+          "price": "160"
+        },
+        {
+          "name": "Veg Lemon And Coriander Soup",
+          "price": "160"
+        },
+        {
+          "name": "Veg Clear Soup",
+          "price": "160"
+        },
+        {
+          "name": "Chicken Sweet Corn Soup",
+          "price": "180"
+        },
+        {
+          "name": "Chicken Hot And Sour Soup",
+          "price": "180"
+        },
+        {
+          "name": "Chicken Manchow Soup",
+          "price": "180"
+        },
+        {
+          "name": "Chicken Talumein Soup",
+          "price": "180"
+        },
+        {
+          "name": "Chicken Clear Soup",
+          "price": "180"
+        },
+        {
+          "name": "Chicken Lemon And Coriander Soup",
+          "price": "180"
+        }
+      ],
+      "Crispy Starters": [
+        {
+          "name": "Crispy Paneer",
+          "price": "300"
+        },
+        {
+          "name": "Crispy Soya Chaap",
+          "price": "280"
+        },
+        {
+          "name": "Crispy Mushroom",
+          "price": "300"
+        }
+      ],
+      "Appetizers": [
+        {
+          "name": "Chicken Spring Roll",
+          "price": "280"
+        },
+        {
+          "name": "Chilli Chicken[dry]",
+          "price": "280"
+        },
+        {
+          "name": "Lemon Chicken",
+          "price": "380"
+        },
+        {
+          "name": "Crispy Honey Chicken",
+          "price": "380"
+        },
+        {
+          "name": "Chicken Salt And Pepper",
+          "price": "380"
+        },
+        {
+          "name": "Chicken Lollipop",
+          "price": "250"
+        },
+        {
+          "name": "Chicken Drums Of Heaven",
+          "price": "380"
+        },
+        {
+          "name": "Chicken Wings",
+          "price": "380"
+        },
+        {
+          "name": "Special Creamy Lollipop",
+          "price": "280"
+        },
+        {
+          "name": "Schezwan Chicken",
+          "price": "350"
+        },
+        {
+          "name": "Chicken Manchurian Dry",
+          "price": "280"
+        }
+      ],
+      "Chines Main Course": [
+        {
+          "name": "Chilli Paneer Gravy",
+          "price": "240"
+        },
+        {
+          "name": "Veg Manchurian Gravy",
+          "price": "220"
+        },
+        {
+          "name": "Chilli Chicken Gravy",
+          "price": "280"
+        },
+        {
+          "name": "Chicken Manchurian Gravy",
+          "price": "280"
+        },
+        {
+          "name": "Veg Schezwan Sauce",
+          "price": "300"
+        },
+        {
+          "name": "Veg Hot Garlic Sauce",
+          "price": "300"
+        },
+        {
+          "name": "Chilli Chaap Gravy",
+          "price": "300"
+        },
+        {
+          "name": "Chicken Schezwan Sauce",
+          "price": "350"
+        },
+        {
+          "name": "Chicken Black Pepper Sauce",
+          "price": "350"
+        },
+        {
+          "name": "Chicken Hot Garlic Sauce",
+          "price": "350"
+        },
+        {
+          "name": "Lemon Chicken Gravy",
+          "price": "380"
+        }
+      ],
+      "Fried Rice & Noodles": [
+        {
+          "name": "Veg American Chopsuey",
+          "price": "300"
+        },
+        {
+          "name": "Chicken American Chopsuey",
+          "price": "350"
+        },
+        {
+          "name": "Veg Chinese Chopsuey",
+          "price": "300"
+        },
+        {
+          "name": "Chicken Chinese Chopsuey",
+          "price": "350"
+        }
+      ],
+      "Stone Pizza": [
+        {
+          "name": "Margherita Pizza",
+          "price": "275"
+        },
+        {
+          "name": "Veg China House Pizza",
+          "price": "275"
+        },
+        {
+          "name": "Cheese Corn Pizza",
+          "price": "275"
+        },
+        {
+          "name": "Chicken Tikka Pizza",
+          "price": "300"
+        },
+        {
+          "name": "Mutton Pizza",
+          "price": "300"
+        },
+        {
+          "name": "Peri Peri Chicken Pizza",
+          "price": "300"
+        },
+        {
+          "name": "Large House Pizza",
+          "price": "275"
+        },
+        {
+          "name": "Chicken China House Pizza",
+          "price": "300"
+        },
+        {
+          "name": "Chicken Large House Pizza",
+          "price": "300"
+        }
+      ],
+      "Pasta": [
+        {
+          "name": "Veg White Sauce Pasta",
+          "price": "300"
+        },
+        {
+          "name": "Veg Red Sauce Pasta",
+          "price": "300"
+        },
+        {
+          "name": "Veg Tandoori Pasta",
+          "price": "300"
+        },
+        {
+          "name": "Veg Mixed Pasta",
+          "price": "300"
+        },
+        {
+          "name": "Veg Smoked Pasta",
+          "price": "300"
+        },
+        {
+          "name": "Non Veg White Sauce Pasta",
+          "price": "350"
+        },
+        {
+          "name": "Chicken Red Sauce Pasta",
+          "price": "350"
+        },
+        {
+          "name": "Chicken Tandoori Pasta",
+          "price": "350"
+        },
+        {
+          "name": "Chicken Mixed Pasta",
+          "price": "350"
+        },
+        {
+          "name": "Chicken Smoked Pasta",
+          "price": "350"
+        }
+      ],
+      "Lasagne Baked Pasta": [
+        {
+          "name": "Veg Lasagna Baked Pasta",
+          "price": "325"
+        },
+        {
+          "name": "Chicken Lasagna Baked Pasta",
+          "price": "350"
+        }
+      ],
+      "Burgers And Sandwiches": [
+        {
+          "name": "Veg Burger",
+          "price": "100"
+        },
+        {
+          "name": "Paneer American Burger",
+          "price": "175"
+        },
+        {
+          "name": "Aloo Burger",
+          "price": "80"
+        },
+        {
+          "name": "Veg Momo Burger",
+          "price": "125"
+        },
+        {
+          "name": "Chicken Burger",
+          "price": "125"
+        },
+        {
+          "name": "Chicken Tikka American Burger",
+          "price": "175"
+        },
+        {
+          "name": "American Chicken Hammer Burger",
+          "price": "225"
+        },
+        {
+          "name": "Grilled Chicken Burger",
+          "price": "165"
+        },
+        {
+          "name": "Chicken Momo Burger",
+          "price": "150"
+        },
+        {
+          "name": "Veg American Burger",
+          "price": "160"
+        },
+        {
+          "name": "Paneer Burger",
+          "price": "110"
+        },
+        {
+          "name": "Crispy Soya Patty Burger",
+          "price": "110"
+        },
+        {
+          "name": "Chicken American Burger",
+          "price": "185"
+        },
+        {
+          "name": "Lusty Chicken Burger With Egg",
+          "price": "225"
+        },
+        {
+          "name": "American Fish Hammer Burger",
+          "price": "250"
+        },
+        {
+          "name": "Spicy Chaap Burger",
+          "price": "120"
+        }
+      ],
+      "Mexican Bites Wraps": [
+        {
+          "name": "Crispy Paneer Wrap",
+          "price": "195"
+        },
+        {
+          "name": "Chilli Paneer Wrap",
+          "price": "195"
+        },
+        {
+          "name": "Crispy Chicken Wraps",
+          "price": "215"
+        },
+        {
+          "name": "Mutton Wrap",
+          "price": "215"
+        },
+        {
+          "name": "Crispy Chaap Wrap",
+          "price": "195"
+        },
+        {
+          "name": "Special Veg Wrap",
+          "price": "195"
+        },
+        {
+          "name": "Chilli Chicken Wraps",
+          "price": "215"
+        },
+        {
+          "name": "Chicken Tikka Wraps",
+          "price": "215"
+        },
+        {
+          "name": "Chicken Shawarma Wraps",
+          "price": "215"
+        }
+      ],
+      "Rolls & Momos": [
+        {
+          "name": "Crispy Chicken Momos",
+          "price": "165"
+        },
+        {
+          "name": "Veg Fried Momos",
+          "price": "135"
+        },
+        {
+          "name": "Veg Crispy Fusion Momos",
+          "price": "155"
+        },
+        {
+          "name": "Veg Steamed Momos [4 Pieces]",
+          "price": "135"
+        },
+        {
+          "name": "Veg Steamed Momos [8 Pieces]",
+          "price": "245"
+        },
+        {
+          "name": "Veg Tandoori Fusion Momos",
+          "price": "155"
+        },
+        {
+          "name": "Chicken Fried Momos",
+          "price": "155"
+        },
+        {
+          "name": "Chicken Steamed Momos",
+          "price": "155"
+        },
+        {
+          "name": "Chicken Tandoori Fusion Momos",
+          "price": "165"
+        },
+        {
+          "name": "Chicken Afghani Fusion Momos",
+          "price": "165"
+        },
+        {
+          "name": "Chicken Cocktail Fusion Momos",
+          "price": "275"
+        },
+        {
+          "name": "Chicken Chilli Fusion Momos [8 Pieces]",
+          "price": "275"
+        },
+        {
+          "name": "Veg Afghani Fusion Momos",
+          "price": "155"
+        },
+        {
+          "name": "Veg Chilli Fusion Momos [8 Pieces]",
+          "price": "265"
+        },
+        {
+          "name": "Veg Cocktail Fusion Momos",
+          "price": "265"
+        }
+      ],
+      "Garlic Breads": [
+        {
+          "name": "Cheese Round Garlic Bread",
+          "price": "240"
+        },
+        {
+          "name": "Veg Round Garlic Bread",
+          "price": "275"
+        },
+        {
+          "name": "Chicken Tikka Round Garlic Bread",
+          "price": "325"
+        }
+      ],
+      "Maggi": [
+        {
+          "name": "Maggi Masala [Serves 1]",
+          "price": "80"
+        },
+        {
+          "name": "Veg Maggi Masala",
+          "price": "110"
+        },
+        {
+          "name": "Cheese Maggi Masala",
+          "price": "125"
+        },
+        {
+          "name": "Chicken Maggi Masala",
+          "price": "145"
+        },
+        {
+          "name": "Garlic Maggi Masala",
+          "price": "110"
+        },
+        {
+          "name": "Butter Masala Maggi",
+          "price": "110"
+        },
+        {
+          "name": "Egg Maggi Masala",
+          "price": "125"
+        }
+      ],
+      "Quick Bites": [
+        {
+          "name": "Nachos With Dip",
+          "price": "145"
+        },
+        {
+          "name": "Veg Baked Nachos",
+          "price": "245"
+        },
+        {
+          "name": "Chicken Baked Nachos",
+          "price": "275"
+        }
+      ],
+      "Desserts & Beverages": [
+        {
+          "name": "Choco Peanut Butter Shake",
+          "price": "159"
+        },
+        {
+          "name": "Bubble Gum Shake",
+          "price": "159"
+        },
+        {
+          "name": "Peanut Butter Shake",
+          "price": "159"
+        },
+        {
+          "name": "Brownie Shake",
+          "price": "159"
+        },
+        {
+          "name": "Nutella Banana Shake",
+          "price": "159"
+        },
+        {
+          "name": "Banana With Coffee Shake",
+          "price": "159"
+        }
+      ]
+    }
+  },
+  {
+    "store_name": "Swadisht Restaurant",
+    "store_type": "Budget Eats\n                                    Cost for two: \u20b9300",
+    "location": "East Jyoti Nagar, New Delhi.",
+    "rating": "3.9",
+    "menu": {
+      "Recommended": [
+        {
+          "name": "N/A",
+          "price": "120"
+        },
+        {
+          "name": "N/A",
+          "price": "150"
+        },
+        {
+          "name": "N/A",
+          "price": "180"
+        }
+      ],
+      "Combo": [
+        {
+          "name": "N/A",
+          "price": "199"
+        },
+        {
+          "name": "N/A",
+          "price": "220"
+        },
+        {
+          "name": "N/A",
+          "price": "220"
+        },
+        {
+          "name": "N/A",
+          "price": "210"
+        },
+        {
+          "name": "N/A",
+          "price": "199"
+        },
+        {
+          "name": "N/A",
+          "price": "199"
+        },
+        {
+          "name": "N/A",
+          "price": "150"
+        },
+        {
+          "name": "N/A",
+          "price": "189"
+        },
+        {
+          "name": "N/A",
+          "price": "140"
+        },
+        {
+          "name": "N/A",
+          "price": "170"
+        },
+        {
+          "name": "N/A",
+          "price": "249"
+        },
+        {
+          "name": "N/A",
+          "price": "299"
+        },
+        {
+          "name": "N/A",
+          "price": "499"
+        }
+      ],
+      "Soups": [
+        {
+          "name": "N/A",
+          "price": "60"
+        },
+        {
+          "name": "N/A",
+          "price": "80"
+        },
+        {
+          "name": "N/A",
+          "price": "80"
+        },
+        {
+          "name": "N/A",
+          "price": "80"
+        },
+        {
+          "name": "N/A",
+          "price": "80"
+        }
+      ],
+      "Starters": [
+        {
+          "name": "N/A",
+          "price": "250"
+        },
+        {
+          "name": "N/A",
+          "price": "250"
+        },
+        {
+          "name": "N/A",
+          "price": "250"
+        },
+        {
+          "name": "N/A",
+          "price": "190"
+        },
+        {
+          "name": "N/A",
+          "price": "190"
+        },
+        {
+          "name": "N/A",
+          "price": "210"
+        },
+        {
+          "name": "N/A",
+          "price": "190"
+        },
+        {
+          "name": "N/A",
+          "price": "190"
+        },
+        {
+          "name": "N/A",
+          "price": "190"
+        }
+      ],
+      "Main Course": [
+        {
+          "name": "N/A",
+          "price": "150"
+        },
+        {
+          "name": "N/A",
+          "price": "139"
+        },
+        {
+          "name": "N/A",
+          "price": "139"
+        },
+        {
+          "name": "N/A",
+          "price": "149"
+        },
+        {
+          "name": "N/A",
+          "price": "170"
+        },
+        {
+          "name": "N/A",
+          "price": "180"
+        },
+        {
+          "name": "N/A",
+          "price": "170"
+        },
+        {
+          "name": "N/A",
+          "price": "99"
+        },
+        {
+          "name": "N/A",
+          "price": "135"
+        },
+        {
+          "name": "N/A",
+          "price": "180"
+        },
+        {
+          "name": "N/A",
+          "price": "180"
+        },
+        {
+          "name": "N/A",
+          "price": "150"
+        },
+        {
+          "name": "N/A",
+          "price": "180"
+        },
+        {
+          "name": "N/A",
+          "price": "180"
+        },
+        {
+          "name": "N/A",
+          "price": "299"
+        },
+        {
+          "name": "N/A",
+          "price": "359"
+        },
+        {
+          "name": "N/A",
+          "price": "357"
+        },
+        {
+          "name": "N/A",
+          "price": "229"
+        },
+        {
+          "name": "N/A",
+          "price": "210"
+        },
+        {
+          "name": "N/A",
+          "price": "365"
+        },
+        {
+          "name": "N/A",
+          "price": "189"
+        },
+        {
+          "name": "N/A",
+          "price": "168"
+        },
+        {
+          "name": "N/A",
+          "price": "145"
+        },
+        {
+          "name": "N/A",
+          "price": "160"
+        },
+        {
+          "name": "N/A",
+          "price": "189"
+        },
+        {
+          "name": "N/A",
+          "price": "240"
+        },
+        {
+          "name": "N/A",
+          "price": "199"
+        },
+        {
+          "name": "N/A",
+          "price": "199"
+        },
+        {
+          "name": "N/A",
+          "price": "245"
+        },
+        {
+          "name": "N/A",
+          "price": "199"
+        },
+        {
+          "name": "N/A",
+          "price": "245"
+        }
+      ],
+      "Breads": [
+        {
+          "name": "N/A",
+          "price": "18"
+        },
+        {
+          "name": "N/A",
+          "price": "50"
+        },
+        {
+          "name": "N/A",
+          "price": "14"
+        },
+        {
+          "name": "N/A",
+          "price": "40"
+        },
+        {
+          "name": "N/A",
+          "price": "15"
+        },
+        {
+          "name": "N/A",
+          "price": "30"
+        },
+        {
+          "name": "N/A",
+          "price": "30"
+        },
+        {
+          "name": "N/A",
+          "price": "40"
+        },
+        {
+          "name": "N/A",
+          "price": "70"
+        },
+        {
+          "name": "N/A",
+          "price": "60"
+        },
+        {
+          "name": "N/A",
+          "price": "60"
+        },
+        {
+          "name": "N/A",
+          "price": "80"
+        },
+        {
+          "name": "N/A",
+          "price": "50"
+        },
+        {
+          "name": "N/A",
+          "price": "50"
+        },
+        {
+          "name": "N/A",
+          "price": "60"
+        },
+        {
+          "name": "N/A",
+          "price": "50"
+        },
+        {
+          "name": "N/A",
+          "price": "50"
+        },
+        {
+          "name": "N/A",
+          "price": "50"
+        },
+        {
+          "name": "N/A",
+          "price": "20"
+        }
+      ],
+      "Rice And Biryani": [
+        {
+          "name": "N/A",
+          "price": "100"
+        },
+        {
+          "name": "N/A",
+          "price": "110"
+        },
+        {
+          "name": "N/A",
+          "price": "120"
+        },
+        {
+          "name": "N/A",
+          "price": "140"
+        },
+        {
+          "name": "N/A",
+          "price": "160"
+        }
+      ],
+      "Chinese": [
+        {
+          "name": "N/A",
+          "price": "120"
+        },
+        {
+          "name": "N/A",
+          "price": "140"
+        },
+        {
+          "name": "N/A",
+          "price": "99"
+        },
+        {
+          "name": "N/A",
+          "price": "199"
+        },
+        {
+          "name": "N/A",
+          "price": "160"
+        },
+        {
+          "name": "N/A",
+          "price": "199"
+        },
+        {
+          "name": "N/A",
+          "price": "180"
+        },
+        {
+          "name": "N/A",
+          "price": "80"
+        },
+        {
+          "name": "N/A",
+          "price": "199"
+        },
+        {
+          "name": "N/A",
+          "price": "160"
+        }
+      ],
+      "Fried Rice And Noodles": [
+        {
+          "name": "N/A",
+          "price": "120"
+        },
+        {
+          "name": "N/A",
+          "price": "140"
+        },
+        {
+          "name": "N/A",
+          "price": "170"
+        },
+        {
+          "name": "N/A",
+          "price": "150"
+        },
+        {
+          "name": "N/A",
+          "price": "130"
+        }
+      ],
+      "Accompaniments": [
+        {
+          "name": "N/A",
+          "price": "50"
+        },
+        {
+          "name": "N/A",
+          "price": "40"
+        },
+        {
+          "name": "N/A",
+          "price": "70"
+        },
+        {
+          "name": "N/A",
+          "price": "70"
+        },
+        {
+          "name": "N/A",
+          "price": "60"
+        },
+        {
+          "name": "N/A",
+          "price": "90"
+        },
+        {
+          "name": "N/A",
+          "price": "10"
+        }
+      ],
+      "Desserts": [
+        {
+          "name": "N/A",
+          "price": "80"
+        }
+      ],
+      "Drinks (Beverages)": [
+        {
+          "name": "N/A",
+          "price": "70"
+        },
+        {
+          "name": "N/A",
+          "price": "70"
+        },
+        {
+          "name": "N/A",
+          "price": "40"
+        }
+      ]
+    }
+  },
+  {
+    "store_name": "Guru ji food corner",
+    "store_type": "Budget Eats\n                                    Cost for two: \u20b9300",
+    "location": "Shahdara, Preet Vihar, New Delhi.",
+    "rating": "4.0",
+    "menu": {
+      "Recommended": [
+        {
+          "name": "White Sauce Pasta",
+          "price": "149"
+        }
+      ],
+      "Raita": [
+        {
+          "name": "Boondi Raita",
+          "price": "120"
+        },
+        {
+          "name": "Mixed Raita",
+          "price": "130"
+        },
+        {
+          "name": "Pineapple Raita",
+          "price": "140"
+        },
+        {
+          "name": "Plain Raita",
+          "price": "110"
+        },
+        {
+          "name": "Mint Raita",
+          "price": "120"
+        }
+      ],
+      "Pasta": [
+        {
+          "name": "White Sauce Pasta",
+          "price": "149"
+        },
+        {
+          "name": "Red Sauce Pasta",
+          "price": "149"
+        },
+        {
+          "name": "Mixed Sauce Pasta",
+          "price": "159"
+        }
+      ],
+      "Garlic Breads": [
+        {
+          "name": "Veg Garlic Bread",
+          "price": "80"
+        },
+        {
+          "name": "Cheese Garlic Bread",
+          "price": "90"
+        },
+        {
+          "name": "Paneer Garlic Bread",
+          "price": "99"
+        }
+      ],
+      "Maggi": [
+        {
+          "name": "Plain Maggi",
+          "price": "60"
+        },
+        {
+          "name": "Masala Maggi",
+          "price": "70"
+        },
+        {
+          "name": "Double Masala Maggi",
+          "price": "80"
+        },
+        {
+          "name": "Vegetable Maggi",
+          "price": "90"
+        }
+      ],
+      "Momos": [
+        {
+          "name": "Soya Momos [12 Pieces]",
+          "price": "100"
+        },
+        {
+          "name": "Paneer Momos [12 Pieces]",
+          "price": "110"
+        },
+        {
+          "name": "Spring Roll",
+          "price": "99"
+        }
+      ],
+      "Burgers": [
+        {
+          "name": "Aloo Tikki Burger",
+          "price": "60"
+        },
+        {
+          "name": "Paneer Burger",
+          "price": "100"
+        },
+        {
+          "name": "Cheese Burger",
+          "price": "80"
+        },
+        {
+          "name": "Double Aloo Tikki Burger",
+          "price": "90"
+        }
+      ],
+      "Sandwiches": [
+        {
+          "name": "Veg Sandwich",
+          "price": "80"
+        },
+        {
+          "name": "Veg Grilled Sandwich",
+          "price": "90"
+        },
+        {
+          "name": "Cheese Grilled Sandwich",
+          "price": "99"
+        },
+        {
+          "name": "Paneer Sandwich",
+          "price": "110"
+        }
+      ],
+      "Paratha": [
+        {
+          "name": "Aloo Paratha",
+          "price": "60"
+        },
+        {
+          "name": "Onion Paratha",
+          "price": "60"
+        },
+        {
+          "name": "Aloo Pyaaz Paratha",
+          "price": "70"
+        },
+        {
+          "name": "Paneer Paratha",
+          "price": "80"
+        },
+        {
+          "name": "Mixed Paratha",
+          "price": "100"
+        },
+        {
+          "name": "Gobhi Paratha",
+          "price": "60"
+        },
+        {
+          "name": "Paneer Onion Paratha",
+          "price": "90"
+        }
+      ]
+    }
+  },
+  {
+    "store_name": "Kulcha ragda",
+    "store_type": "Delivery Only\n                                    Cost for two: \u20b9200",
+    "location": "Uttam Nagar, New Delhi.",
+    "rating": "5.0",
+    "menu": {
+      "Recommended": [
+        {
+          "name": "N/A",
+          "price": "75.2381"
+        },
+        {
+          "name": "N/A",
+          "price": "76.1905"
+        },
+        {
+          "name": "N/A",
+          "price": "122.8571"
+        },
+        {
+          "name": "N/A",
+          "price": "132.381"
+        },
+        {
+          "name": "N/A",
+          "price": "139"
+        },
+        {
+          "name": "N/A",
+          "price": "151.4286"
+        },
+        {
+          "name": "N/A",
+          "price": "160.9524"
+        },
+        {
+          "name": "N/A",
+          "price": "170.4762"
+        },
+        {
+          "name": "N/A",
+          "price": "189.5238"
+        }
+      ],
+      "Drink": [
+        {
+          "name": "N/A",
+          "price": "75.2381"
+        }
+      ],
+      "Kulcha": [
+        {
+          "name": "N/A",
+          "price": "160.9524"
+        },
+        {
+          "name": "N/A",
+          "price": "139"
+        }
+      ],
+      "Combos": [
+        {
+          "name": "N/A",
+          "price": "189.5238"
+        },
+        {
+          "name": "N/A",
+          "price": "132.381"
+        }
+      ],
+      "Paratha": [
+        {
+          "name": "N/A",
+          "price": "151.4286"
+        }
+      ],
+      "Chaat": [
+        {
+          "name": "N/A",
+          "price": "122.8571"
+        }
+      ],
+      "Maggi": [
+        {
+          "name": "N/A",
+          "price": "170.4762"
+        },
+        {
+          "name": "N/A",
+          "price": "76.1905"
+        }
+      ]
+    }
+  },
+  {
+    "store_name": "Homefood Company",
+    "store_type": "Budget Eats\n                                    Cost for two: \u20b9300",
+    "location": "Lajpat Nagar, Lajpat Nagar 4, New Delhi.",
+    "rating": "4.0",
+    "menu": {
+      "Recommended": [
+        {
+          "name": "Tawa Chapati [Pack Of 5]",
+          "price": "100"
+        },
+        {
+          "name": "Tandoori Roti [Pack Of 4]",
+          "price": "100"
+        },
+        {
+          "name": "Naan [Pack Of 2]",
+          "price": "100"
+        },
+        {
+          "name": "Lachha Parantha [Pack Of 2]",
+          "price": "100"
+        },
+        {
+          "name": "Missi Roti [Pack Of 2]",
+          "price": "100"
+        },
+        {
+          "name": "Butter Tandoori Roti [Pack Of 4]",
+          "price": "120"
+        },
+        {
+          "name": "Butter Naan [Pack Of 2]",
+          "price": "120"
+        },
+        {
+          "name": "Pudina Parantha [Pack Of 2]",
+          "price": "120"
+        },
+        {
+          "name": "Boondi Raita [500 Ml, 1 Box]",
+          "price": "145"
+        },
+        {
+          "name": "Shahi Paneer",
+          "price": "259"
+        },
+        {
+          "name": "Make Your Own Thali [Serves 1]",
+          "price": "349"
+        }
+      ],
+      "Combos": [
+        {
+          "name": "Chole Paratha Combo",
+          "price": "259"
+        },
+        {
+          "name": "Desi Rajma Paratha Combo",
+          "price": "259"
+        },
+        {
+          "name": "Shahi Paneer Paratha Combo",
+          "price": "279"
+        },
+        {
+          "name": "Palak Paneer Paratha Combo",
+          "price": "279"
+        },
+        {
+          "name": "Paneer Bhurji Paratha Combo",
+          "price": "289"
+        },
+        {
+          "name": "Dal Makhani Paratha Combo",
+          "price": "259"
+        },
+        {
+          "name": "Dal Tadka Paratha Combo",
+          "price": "249"
+        }
+      ],
+      "Thali": [
+        {
+          "name": "Home Food Thali",
+          "price": "319"
+        },
+        {
+          "name": "Special Thali",
+          "price": "319"
+        },
+        {
+          "name": "Amritsari Thali",
+          "price": "319"
+        },
+        {
+          "name": "Veg Thali",
+          "price": "299"
+        },
+        {
+          "name": "Butter Naan Thali",
+          "price": "329"
+        }
+      ],
+      "Make Your Own Thali": [
+        {
+          "name": "Make Your Own Thali [Serves 1]",
+          "price": "349"
+        }
+      ],
+      "Main Course": [
+        {
+          "name": "Rajma",
+          "price": "239"
+        },
+        {
+          "name": "Punajbi Chole",
+          "price": "239"
+        },
+        {
+          "name": "Shahi Paneer",
+          "price": "259"
+        },
+        {
+          "name": "Kadhai Paneer",
+          "price": "279"
+        },
+        {
+          "name": "Paneer Lababdar",
+          "price": "279"
+        },
+        {
+          "name": "Malai Kofta",
+          "price": "279"
+        },
+        {
+          "name": "Matar Paneer",
+          "price": "259"
+        },
+        {
+          "name": "Palak Paneer",
+          "price": "259"
+        },
+        {
+          "name": "Paneer Bhurji",
+          "price": "289"
+        },
+        {
+          "name": "Dal Tadka",
+          "price": "249"
+        },
+        {
+          "name": "Dal Makhani",
+          "price": "269"
+        },
+        {
+          "name": "Dal Maharani",
+          "price": "279"
+        },
+        {
+          "name": "Jeera Aloo",
+          "price": "249"
+        },
+        {
+          "name": "Paneer Butter Masala",
+          "price": "279"
+        },
+        {
+          "name": "Chilli Paneer [500 Ml, 1 Box]",
+          "price": "379"
+        },
+        {
+          "name": "Mix Vegetables",
+          "price": "259"
+        },
+        {
+          "name": "Kadhai Mushroom",
+          "price": "279"
+        },
+        {
+          "name": "Matar Mushroom",
+          "price": "259"
+        },
+        {
+          "name": "Palak Mushroom",
+          "price": "259"
+        }
+      ],
+      "Breads": [
+        {
+          "name": "Tawa Chapati [Pack Of 5]",
+          "price": "100"
+        },
+        {
+          "name": "Tandoori Roti [Pack Of 4]",
+          "price": "100"
+        },
+        {
+          "name": "Butter Tandoori Roti [Pack Of 4]",
+          "price": "120"
+        },
+        {
+          "name": "Naan [Pack Of 2]",
+          "price": "100"
+        },
+        {
+          "name": "Butter Naan [Pack Of 2]",
+          "price": "120"
+        },
+        {
+          "name": "Lachha Parantha [Pack Of 2]",
+          "price": "100"
+        },
+        {
+          "name": "Pudina Parantha [Pack Of 2]",
+          "price": "120"
+        },
+        {
+          "name": "Missi Roti [Pack Of 2]",
+          "price": "100"
+        },
+        {
+          "name": "Aloo Naan [Pack Of 2]",
+          "price": "140"
+        },
+        {
+          "name": "Paneer Naan [Pack Of 2]",
+          "price": "149"
+        },
+        {
+          "name": "Butter Tawa Chapati [Pack Of 5]",
+          "price": "120"
+        },
+        {
+          "name": "Mirchi Parantha [Pack Of 2]",
+          "price": "120"
+        },
+        {
+          "name": "Butter Missi Roti [Pack Of 2]",
+          "price": "120"
+        },
+        {
+          "name": "Onion Naan [Pack Of 2]",
+          "price": "140"
+        },
+        {
+          "name": "Mix Naan [Pack Of 2]",
+          "price": "140"
+        },
+        {
+          "name": "Garlic Parantha [Pack Of 2]",
+          "price": "140"
+        },
+        {
+          "name": "Garlic Naan [Pack Of 2]",
+          "price": "140"
+        }
+      ],
+      "Rice": [
+        {
+          "name": "Jeera Rice [300 Ml, 1 Box]",
+          "price": "149"
+        },
+        {
+          "name": "Veg Pulao [300 Ml, 1 Box]",
+          "price": "229"
+        },
+        {
+          "name": "Basmati Rice [300 Ml, 1 Box]",
+          "price": "149"
+        }
+      ],
+      "Fried Rice": [
+        {
+          "name": "Veg Fried Rice [300 Ml, 1 Box]",
+          "price": "229"
+        }
+      ],
+      "Accompaniments": [
+        {
+          "name": "Boondi Raita [500 Ml, 1 Box]",
+          "price": "145"
+        },
+        {
+          "name": "Mixed Veg Raita [500 Ml, 1 Box]",
+          "price": "149"
+        }
+      ],
+      "Meal For One": [
+        {
+          "name": "Dal Makhani + Laccha Paratha",
+          "price": "259"
+        },
+        {
+          "name": "Dal Makhani + Tandoori Roti",
+          "price": "249"
+        }
+      ],
+      "Beverage Combos": [
+        {
+          "name": "Homefood Thali [2x Coke [250 Ml]]",
+          "price": "349"
+        },
+        {
+          "name": "Special Thali [2x Coke [250 Ml]]",
+          "price": "349"
+        },
+        {
+          "name": "Amritsari Thali [2x Coke [250 Ml]",
+          "price": "349"
+        }
+      ]
+    }
+  }
+]
